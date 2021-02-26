@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/alarmsListFragment"
-        android:name="com.yuzumin.pekoranoises.alarmslist.AlarmsListFragment"
+        android:name="com.yuzumin.ayamenoises.alarmslist.AlarmsListFragment"
         android:label="fragment_allalarms"
         tools:layout="@layout/fragment_listalarms" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/createAlarmFragment"
-        android:name="com.yuzumin.pekoranoises.createalarm.CreateAlarmFragment"
+        android:name="com.yuzumin.ayamenoises.createalarm.CreateAlarmFragment"
         android:label="CreateAlarmFragment" >
         <action
             android:id="@+id/action_createAlarmFragment_to_alarmsListFragment"
