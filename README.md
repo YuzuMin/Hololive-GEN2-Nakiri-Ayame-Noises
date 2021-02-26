@@ -2,7 +2,7 @@
  GitHub repository for Uto Noises Android App
 
 # Nakiri Ayame Noises
-Ayame Noises is a clicker app for Android smartphones and tablets that brings entertainment to you by playing noises made by Ayame .
+Ayame Noises is a clicker app for Android smartphones and tablets that brings Nakirium to you by playing noises made by Ayame.
 The interface of Ayame Noises is designed to be simple, intuitive and efficient. By removing what is not essential, we make access to everything you need even easier.
 
 # Download
@@ -19,12 +19,12 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.ayamenoi
 GNU General Public License V3
 
 # List of Noises
-* ayamenoise1
-* ayamenoise2
-* ayamenoise3
-* ayamenoise4
-* ayamenoise5
-* ayamenoise6
+* ayamenoise1 Yo Dayo
+* ayamenoise2 Banana
+* ayamenoise3 *Ojou Giggles*
+* ayamenoise4 It's gotten quite chilly lately, huh?
+* ayamenoise5 Docchi Docchi
+* ayamenoise6 
 * ayamenoise7
 * ayamenoise8
 * ayamenoise9
