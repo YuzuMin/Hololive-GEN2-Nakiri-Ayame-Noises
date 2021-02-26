@@ -24,7 +24,7 @@ GNU General Public License V3
 * ayamenoise3 *Ojou Giggles*
 * ayamenoise4 It's gotten quite chilly lately, huh?
 * ayamenoise5 Docchi Docchi
-* ayamenoise6 
+* ayamenoise6 大丈夫ですか
 * ayamenoise7
 * ayamenoise8
 * ayamenoise9
