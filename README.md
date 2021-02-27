@@ -28,10 +28,10 @@ GNU General Public License V3
 * ayamenoise7 *Ojou laughter*
 * ayamenoise8 じゃいらない
 * ayamenoise9 *Wife Noises*
-* ayamenoise10
-* ayamenoise11
-* ayamenoise12
-* ayamenoise13
+* ayamenoise10 *1st voice tweet*
+* ayamenoise11 おやすみ
+* ayamenoise12 あります
+* ayamenoise13 
 * ayamenoise14
 * ayamenoise15
 * ayamenoise16
