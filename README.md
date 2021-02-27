@@ -22,22 +22,22 @@ GNU General Public License V3
 * ayamenoise1 Yo Dayo
 * ayamenoise2 Banana
 * ayamenoise3 *Ojou Giggles*
-* ayamenoise4 It's gotten quite chilly lately, huh?
+* ayamenoise4 最近、寒くなってきたな！
 * ayamenoise5 Docchi Docchi
-* ayamenoise6 大丈夫ですか
+* ayamenoise6 Daijoubu Desu ka
 * ayamenoise7 *Ojou laughter*
-* ayamenoise8 じゃいらない
+* ayamenoise8 Ja iranai
 * ayamenoise9 *Wife Noises*
 * ayamenoise10 *1st voice tweet*
-* ayamenoise11 おやすみ
-* ayamenoise12 あります
-* ayamenoise13 
-* ayamenoise14
-* ayamenoise15
-* ayamenoise16
-* ayamenoise17
-* ayamenoise18
-* ayamenoise19
+* ayamenoise11 Oyasumi
+* ayamenoise12 Arimasu
+* ayamenoise13 1,2,3,4,5 x3
+* ayamenoise14 Kore wa
+* ayamenoise15 *Ojou kicks you*
+* ayamenoise16 Baka!!
+* ayamenoise17 Hentai
+* ayamenoise18 Urusai
+* ayamenoise19 Mou shiranai
 * ayamenoise20
 * ayamenoise21
 * ayamenoise22
