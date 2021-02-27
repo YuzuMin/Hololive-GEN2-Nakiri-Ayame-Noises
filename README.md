@@ -50,7 +50,7 @@ GNU General Public License V3
 * ayamenoise29 Ano Ne
 * ayamenoise30 *Ojou Blessing*
 * ayamenoise31 みんなチョコもらた?
-* ayamenoise32 
+* ayamenoise32 *Ojou Cries*
 * ayamenoise33
 * ayamenoise34
 * ayamenoise35
