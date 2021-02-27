@@ -38,7 +38,7 @@ GNU General Public License V3
 * ayamenoise17 Hentai
 * ayamenoise18 Urusai
 * ayamenoise19 Mou shiranai
-* ayamenoise20
+* ayamenoise20 Konnakiri
 * ayamenoise21
 * ayamenoise22
 * ayamenoise23
