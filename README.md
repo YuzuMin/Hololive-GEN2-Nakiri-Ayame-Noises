@@ -44,11 +44,11 @@ GNU General Public License V3
 * ayamenoise23 Na
 * ayamenoise24 何故え!?
 * ayamenoise25 天然ものだぞ
-* ayamenoise26
-* ayamenoise27
-* ayamenoise28
-* ayamenoise29
-* ayamenoise30
+* ayamenoise26 う〜ん、仕方ない
+* ayamenoise27 *Tongue Twister*
+* ayamenoise28 Arigato
+* ayamenoise29 Ano Ne
+* ayamenoise30 *Ojou Blessing*
 * ayamenoise31
 * ayamenoise32
 * ayamenoise33
