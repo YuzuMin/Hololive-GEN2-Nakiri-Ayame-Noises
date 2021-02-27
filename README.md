@@ -39,11 +39,11 @@ GNU General Public License V3
 * ayamenoise18 Urusai
 * ayamenoise19 Mou shiranai
 * ayamenoise20 Konnakiri
-* ayamenoise21
-* ayamenoise22
-* ayamenoise23
-* ayamenoise24
-* ayamenoise25
+* ayamenoise21 Hai
+* ayamenoise22 Suki
+* ayamenoise23 Na
+* ayamenoise24 何故え!?
+* ayamenoise25 天然ものだぞ
 * ayamenoise26
 * ayamenoise27
 * ayamenoise28
