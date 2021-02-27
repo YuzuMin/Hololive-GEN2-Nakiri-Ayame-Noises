@@ -51,7 +51,7 @@ GNU General Public License V3
 * ayamenoise30 *Ojou Blessing*
 * ayamenoise31 みんなチョコもらた?
 * ayamenoise32 *Ojou Cries*
-* ayamenoise33
+* ayamenoise33 *Onee san voice*
 * ayamenoise34
 * ayamenoise35
 * ayamenoise36
