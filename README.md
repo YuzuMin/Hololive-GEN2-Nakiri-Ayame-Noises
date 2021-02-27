@@ -27,7 +27,7 @@ GNU General Public License V3
 * ayamenoise6 大丈夫ですか
 * ayamenoise7 *Ojou laughter*
 * ayamenoise8 じゃいらない
-* ayamenoise9 
+* ayamenoise9 *Wife Noises*
 * ayamenoise10
 * ayamenoise11
 * ayamenoise12
