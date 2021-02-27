@@ -49,8 +49,8 @@ GNU General Public License V3
 * ayamenoise28 Arigato
 * ayamenoise29 Ano Ne
 * ayamenoise30 *Ojou Blessing*
-* ayamenoise31
-* ayamenoise32
+* ayamenoise31 みんなチョコもらた?
+* ayamenoise32 
 * ayamenoise33
 * ayamenoise34
 * ayamenoise35
