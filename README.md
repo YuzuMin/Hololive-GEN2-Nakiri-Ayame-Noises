@@ -59,8 +59,8 @@ GNU General Public License V3
 * ayamenoise38 FU! x3
 * ayamenoise39 Eh?!
 * ayamenoise40 もういい
-* ayamenoise41
-* ayamenoise42
+* ayamenoise41 *Oni Noises*
+* ayamenoise42 *Angry cat noises*
 * ayamenoise43
 * ayamenoise44
 * ayamenoise45
