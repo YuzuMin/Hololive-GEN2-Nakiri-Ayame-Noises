@@ -66,4 +66,3 @@ GNU General Public License V3
 * ayamenoise45 困っちゃうよね。
 * ayamenoise46
 * ayamenoise47
-* ayamenoise48
