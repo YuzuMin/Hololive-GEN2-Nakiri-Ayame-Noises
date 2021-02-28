@@ -58,7 +58,7 @@ GNU General Public License V3
 * ayamenoise37 Pikan!
 * ayamenoise38 FU! x3
 * ayamenoise39 Eh?!
-* ayamenoise40
+* ayamenoise40 もういい
 * ayamenoise41
 * ayamenoise42
 * ayamenoise43
