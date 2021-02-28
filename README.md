@@ -52,9 +52,9 @@ GNU General Public License V3
 * ayamenoise31 みんなチョコもらた?
 * ayamenoise32 *Ojou Cries*
 * ayamenoise33 *Onee san voice*
-* ayamenoise34
-* ayamenoise35
-* ayamenoise36
+* ayamenoise34 Un!!!
+* ayamenoise35 Yeeeei!!!
+* ayamenoise36 Won't forgive you
 * ayamenoise37
 * ayamenoise38
 * ayamenoise39
