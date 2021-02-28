@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:background="@drawable/bg0"
         android:backgroundTintMode="src_atop"
-        android:backgroundTint="#9F000000"
+        android:backgroundTint="#A7000000"
         android:orientation="vertical">
         <LinearLayout
             android:background="@color/darkblvck"
