@@ -26,7 +26,7 @@ import butterknife.ButterKnife;
 public class RingActivity extends AppCompatActivity {
     @BindView(R.id.activity_ring_dismiss) CardView dismiss;
     @BindView(R.id.activity_ring_snooze) CardView snooze;
-    @BindView(R.id.activity_ring_clock) ImageView clock;
+    @BindView(R.id.activity_ring_clock) ImageView image;
 
     SharedPreferences SavedSettings;
     int charavalue;
@@ -43,16 +43,19 @@ public class RingActivity extends AppCompatActivity {
 
         switch (charavalue) {
             case 0:
-                clock.setImageResource(R.drawable.pekora0);
+                image.setImageResource(R.drawable.ayame0);
                 break;
             case 1:
-                clock.setImageResource(R.drawable.pekora1);
+                image.setImageResource(R.drawable.ayame1);
                 break;
             case 2:
-                clock.setImageResource(R.drawable.pekora2);
+                image.setImageResource(R.drawable.ayame2);
+                break;
+            case 3:
+                image.setImageResource(R.drawable.ayame3);
                 break;
             default:
-                clock.setImageResource(R.drawable.pekora3);
+                image.setImageResource(R.drawable.ayame4);
                 break;
         }
 
@@ -123,7 +126,7 @@ public class RingActivity extends AppCompatActivity {
     }
 
     private void animateClock() {
-        ObjectAnimator rotateAnimation = ObjectAnimator.ofFloat(clock, "rotation", 0f, 20f, 0f, -20f, 0f);
+        ObjectAnimator rotateAnimation = ObjectAnimator.ofFloat(image, "rotation", 0f, 20f, 0f, -20f, 0f);
         rotateAnimation.setRepeatCount(ValueAnimator.INFINITE);
         rotateAnimation.setDuration(800);
         rotateAnimation.start();

@@ -83,11 +83,11 @@
 
 
         <ImageView
-            android:padding="7dp"
+            android:padding="1dp"
             android:id="@+id/image"
             android:layout_width="match_parent"
             android:layout_height="379dp"
-            app:srcCompat="@drawable/pekora0" />
+            app:srcCompat="@drawable/ayame0" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

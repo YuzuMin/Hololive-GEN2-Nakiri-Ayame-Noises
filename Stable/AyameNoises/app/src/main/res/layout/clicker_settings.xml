@@ -152,76 +152,95 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content">
                                     <TableRow
-                                        android:id="@+id/pekora0_img_row">
+                                        android:id="@+id/ayame0_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/pekora0"
+                                            android:src="@drawable/ayame0"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/pekora0_img"
+                                            android:id="@+id/ayame0_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Pekora 0"
+                                            android:text="Ayame 0"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/pekora1_img_row">
+                                        android:id="@+id/ayame1_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/pekora1"
+                                            android:src="@drawable/ayame1"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/pekora1_img"
+                                            android:id="@+id/ayame1_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Pekora 1"
+                                            android:text="Ayame 1"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/pekora2_img_row">
+                                        android:id="@+id/ayame2_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/pekora2"
+                                            android:src="@drawable/ayame2"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/pekora2_img"
+                                            android:id="@+id/ayame2_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Pekora 2"
+                                            android:text="Ayame 2"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/pekora3_img_row">
+                                        android:id="@+id/ayame3_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/pekora3"
+                                            android:src="@drawable/ayame3"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/pekora3_img"
+                                            android:id="@+id/ayame3_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Pekora 3"
+                                            android:text="Ayame 3"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
+
+                                    <TableRow
+                                        android:id="@+id/ayame4_img_row">
+                                        <ImageView
+                                            android:padding="10dp"
+                                            android:src="@drawable/ayame4"
+                                            android:layout_width="100dp"
+                                            android:layout_height="100dp"/>
+                                        <RadioButton
+                                            android:id="@+id/ayame4_img"
+                                            android:layout_gravity="center_vertical"
+                                            android:textSize="17dp"
+                                            android:buttonTint="@color/colorAccent"
+                                            android:text="Ayame 4"
+                                            android:textColor="@color/colorAccent"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"/>
+                                    </TableRow>
+
 
                                 </TableLayout>
 
@@ -1219,110 +1238,7 @@
 
                                     </TableRow>
 
-                                    <TableRow
-                                        android:layout_marginBottom="5dp"
-                                        android:paddingLeft="10dp"
-                                        android:layout_width="match_parent"
-                                        android:layout_height="match_parent">
 
-                                        <TextView
-                                            android:layout_weight="1"
-                                            android:layout_width="wrap_content"
-                                            android:layout_height="wrap_content"
-                                            android:text="@string/noise46_text"
-                                            android:textColor="#f1f1f1"
-                                            android:textSize="17sp" />
-
-                                        <Switch
-                                            android:id="@+id/switch48"
-                                            android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
-
-                                    </TableRow>
-
-                                    <TableRow
-                                        android:layout_marginBottom="5dp"
-                                        android:paddingLeft="10dp"
-                                        android:layout_width="match_parent"
-                                        android:layout_height="match_parent">
-
-                                        <TextView
-                                            android:layout_weight="1"
-                                            android:layout_width="wrap_content"
-                                            android:layout_height="wrap_content"
-                                            android:text="@string/noise47_text"
-                                            android:textColor="#f1f1f1"
-                                            android:textSize="17sp" />
-
-                                        <Switch
-                                            android:id="@+id/switch49"
-                                            android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
-
-                                    </TableRow>
-
-                                    <TableRow
-                                        android:layout_marginBottom="5dp"
-                                        android:paddingLeft="10dp"
-                                        android:layout_width="match_parent"
-                                        android:layout_height="match_parent">
-
-                                        <TextView
-                                            android:layout_weight="1"
-                                            android:layout_width="wrap_content"
-                                            android:layout_height="wrap_content"
-                                            android:text="@string/noise48_text"
-                                            android:textColor="#f1f1f1"
-                                            android:textSize="17sp" />
-
-                                        <Switch
-                                            android:id="@+id/switch50"
-                                            android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
-
-                                    </TableRow>
-
-                                    <TableRow
-                                        android:layout_marginBottom="5dp"
-                                        android:paddingLeft="10dp"
-                                        android:layout_width="match_parent"
-                                        android:layout_height="match_parent">
-
-                                        <TextView
-                                            android:layout_weight="1"
-                                            android:layout_width="wrap_content"
-                                            android:layout_height="wrap_content"
-                                            android:text="@string/noise49_text"
-                                            android:textColor="#f1f1f1"
-                                            android:textSize="17sp" />
-
-                                        <Switch
-                                            android:id="@+id/switch51"
-                                            android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
-
-                                    </TableRow>
-
-                                    <TableRow
-                                        android:layout_marginBottom="5dp"
-                                        android:paddingLeft="10dp"
-                                        android:layout_width="match_parent"
-                                        android:layout_height="match_parent">
-
-                                        <TextView
-                                            android:layout_weight="1"
-                                            android:layout_width="wrap_content"
-                                            android:layout_height="wrap_content"
-                                            android:text="@string/noise50_text"
-                                            android:textColor="#f1f1f1"
-                                            android:textSize="17sp" />
-
-                                        <Switch
-                                            android:id="@+id/switch52"
-                                            android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
-
-                                    </TableRow>
 
                                 </TableLayout>
 

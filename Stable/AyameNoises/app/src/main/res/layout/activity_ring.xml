@@ -32,7 +32,7 @@
             android:id="@+id/activity_ring_clock"
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            app:srcCompat="@drawable/pekora0" />
+            app:srcCompat="@drawable/ayame0" />
 
         <LinearLayout
             android:layout_width="match_parent"
