@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#101010</color>
     <color name="colorPrimaryDark">#000</color>
-    <color name="colorAccent">#FF73A4</color>
+    <color name="colorAccent">#FF738F</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -24,6 +24,6 @@
     <color name="darkblvck">#121212</color>
     <color name="porcelain">#F3F3F3</color>
     <color name="darkporcelain">#ACACAC</color>
-    <color name="button">#65BCFF</color>
-    <color name="clearbutton">#A965BCFF</color>
+    <color name="button">#FF738F</color>
+    <color name="clearbutton">#A9FF738F</color>
 </resources>

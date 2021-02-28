@@ -54,8 +54,11 @@ public class RingActivity extends AppCompatActivity {
             case 3:
                 image.setImageResource(R.drawable.ayame3);
                 break;
-            default:
+            case 4:
                 image.setImageResource(R.drawable.ayame4);
+                break;
+            default:
+                image.setImageResource(R.drawable.ayame5);
                 break;
         }
 

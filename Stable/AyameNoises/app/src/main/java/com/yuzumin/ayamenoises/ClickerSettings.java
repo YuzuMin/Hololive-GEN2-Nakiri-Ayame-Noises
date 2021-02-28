@@ -21,11 +21,13 @@ public class ClickerSettings extends AppCompatActivity {
     TableRow AyameIMG2Row;
     TableRow AyameIMG3Row;
     TableRow AyameIMG4Row;
+    TableRow AyameIMG5Row;
     RadioButton AyameIMG0;
     RadioButton AyameIMG1;
     RadioButton AyameIMG2;
     RadioButton AyameIMG3;
     RadioButton AyameIMG4;
+    RadioButton AyameIMG5;
 
     Integer charavalue;
 
@@ -111,6 +113,8 @@ public class ClickerSettings extends AppCompatActivity {
         AyameIMG3Row=findViewById(R.id.ayame3_img_row);
         AyameIMG4=findViewById(R.id.ayame4_img);
         AyameIMG4Row=findViewById(R.id.ayame4_img_row);
+        AyameIMG5=findViewById(R.id.ayame5_img);
+        AyameIMG5Row=findViewById(R.id.ayame5_img_row);
 
 
         AyameIMG0.setOnClickListener(new View.OnClickListener() {
@@ -125,6 +129,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG0Row.setOnClickListener(new View.OnClickListener() {
@@ -139,6 +144,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG1.setOnClickListener(new View.OnClickListener() {
@@ -153,6 +159,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG1Row.setOnClickListener(new View.OnClickListener() {
@@ -167,6 +174,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG2.setOnClickListener(new View.OnClickListener() {
@@ -181,6 +189,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(true);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG2Row.setOnClickListener(new View.OnClickListener() {
@@ -195,6 +204,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(true);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG3.setOnClickListener(new View.OnClickListener() {
@@ -209,6 +219,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(true);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG3Row.setOnClickListener(new View.OnClickListener() {
@@ -223,6 +234,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(true);
                 AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG4.setOnClickListener(new View.OnClickListener() {
@@ -237,6 +249,7 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(true);
+                AyameIMG5.setChecked(false);
             }
         });
         AyameIMG4Row.setOnClickListener(new View.OnClickListener() {
@@ -251,6 +264,37 @@ public class ClickerSettings extends AppCompatActivity {
                 AyameIMG2.setChecked(false);
                 AyameIMG3.setChecked(false);
                 AyameIMG4.setChecked(true);
+                AyameIMG5.setChecked(false);
+            }
+        });
+        AyameIMG5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                charavalue=5;
+                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
+                SoundSettingsEditor.putInt("CharaValue",charavalue);
+                SoundSettingsEditor.apply();
+                AyameIMG0.setChecked(false);
+                AyameIMG1.setChecked(false);
+                AyameIMG2.setChecked(false);
+                AyameIMG3.setChecked(false);
+                AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(true);
+            }
+        });
+        AyameIMG5Row.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                charavalue=5;
+                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
+                SoundSettingsEditor.putInt("CharaValue",charavalue);
+                SoundSettingsEditor.apply();
+                AyameIMG0.setChecked(false);
+                AyameIMG1.setChecked(false);
+                AyameIMG2.setChecked(false);
+                AyameIMG3.setChecked(false);
+                AyameIMG4.setChecked(false);
+                AyameIMG5.setChecked(true);
             }
         });
 
@@ -1752,8 +1796,11 @@ public class ClickerSettings extends AppCompatActivity {
             case 3:
                 AyameIMG3.setChecked(true);
                 break;
-            default:
+            case 4:
                 AyameIMG4.setChecked(true);
+                break;
+            default:
+                AyameIMG5.setChecked(true);
                 break;
         }
     }
