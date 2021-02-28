@@ -11,7 +11,7 @@ alt="Get it on Google Play"
 height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.ayamenoises)
 
 # Features
-* 50 Noises
+* 45 Noises
 * Alarm Clock
 * Google Drive Download
 
