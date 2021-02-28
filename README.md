@@ -65,4 +65,3 @@ GNU General Public License V3
 * ayamenoise44 早く起きる 
 * ayamenoise45 困っちゃうよね。
 * ayamenoise46
-* ayamenoise47
