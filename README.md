@@ -67,4 +67,3 @@ GNU General Public License V3
 * ayamenoise46
 * ayamenoise47
 * ayamenoise48
-* ayamenoise49
