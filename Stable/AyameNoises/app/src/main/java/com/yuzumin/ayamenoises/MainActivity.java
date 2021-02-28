@@ -21,6 +21,7 @@ import com.yuzumin.ayamenoises.activities.AlarmActivity;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity implements Count.CountListener{
     ImageView image;
@@ -102,7 +103,6 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
         image.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 if(switch2){
                     count.increment();
                     startRandomSound();
