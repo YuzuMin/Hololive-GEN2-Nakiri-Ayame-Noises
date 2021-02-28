@@ -55,9 +55,9 @@ GNU General Public License V3
 * ayamenoise34 Un!!!
 * ayamenoise35 Yeeeei!!!
 * ayamenoise36 Won't forgive you
-* ayamenoise37
-* ayamenoise38
-* ayamenoise39
+* ayamenoise37 Pikan!
+* ayamenoise38 FU! x3
+* ayamenoise39 Eh?!
 * ayamenoise40
 * ayamenoise41
 * ayamenoise42
