@@ -632,16 +632,19 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
 
         switch (charavalue) {
             case 0:
-                image.setImageResource(R.drawable.pekora0);
+                image.setImageResource(R.drawable.ayame0);
                 break;
             case 1:
-                image.setImageResource(R.drawable.pekora1);
+                image.setImageResource(R.drawable.ayame1);
                 break;
             case 2:
-                image.setImageResource(R.drawable.pekora2);
+                image.setImageResource(R.drawable.ayame2);
+                break;
+            case 3:
+                image.setImageResource(R.drawable.ayame3);
                 break;
             default:
-                image.setImageResource(R.drawable.pekora3);
+                image.setImageResource(R.drawable.ayame4);
                 break;
         }
 
