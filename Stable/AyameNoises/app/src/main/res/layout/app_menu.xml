@@ -94,7 +94,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="Pekora Ch. 兎田ぺこら"
+                                    android:text="Ayame Ch. 百鬼あやめ"
                                     android:textAlignment="center"
                                     android:textColor="@color/darkporcelain"
                                     android:textSize="11sp" />
@@ -103,7 +103,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="Idol Comedian Rabbit"
+                                    android:text="Nakirium Source"
                                     android:textAlignment="center"
                                     android:textColor="@color/porcelain" />
                             </LinearLayout>
