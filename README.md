@@ -62,8 +62,8 @@ GNU General Public License V3
 * ayamenoise41 *Oni Noises*
 * ayamenoise42 *Angry cat noises*
 * ayamenoise43 *Oni Giggles*
-* ayamenoise44
-* ayamenoise45
+* ayamenoise44 早く起きる 
+* ayamenoise45 
 * ayamenoise46
 * ayamenoise47
 * ayamenoise48
