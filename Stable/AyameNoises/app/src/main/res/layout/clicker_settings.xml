@@ -91,7 +91,7 @@
                                     <TableRow
                                         android:paddingHorizontal="10dp"
                                         android:layout_width="match_parent"
-                                        android:layout_height="match_parent">
+                                        android:layout_height="wrap_content">
 
                                         <TextView
                                             android:layout_weight="1"
@@ -104,7 +104,7 @@
                                         <Switch
                                             android:id="@+id/switch2"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -125,7 +125,7 @@
                                         <Switch
                                             android:id="@+id/switch1"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -146,7 +146,7 @@
                                         <Switch
                                             android:id="@+id/switch0"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
                                 </TableLayout>
@@ -299,7 +299,8 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content">
                                 <TableLayout
-                                    android:layout_marginVertical="10dp"
+                                    android:layout_marginTop="10dp"
+                                    android:layout_marginBottom="5dp"
                                     android:id="@+id/tableLayout"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content">
@@ -348,7 +349,7 @@
                                         <Switch
                                             android:id="@+id/switch3"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -369,7 +370,7 @@
                                         <Switch
                                             android:id="@+id/switch4"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -390,7 +391,7 @@
                                         <Switch
                                             android:id="@+id/switch5"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -411,7 +412,7 @@
                                         <Switch
                                             android:id="@+id/switch6"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -432,7 +433,7 @@
                                         <Switch
                                             android:id="@+id/switch7"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -453,7 +454,7 @@
                                         <Switch
                                             android:id="@+id/switch8"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -474,7 +475,7 @@
                                         <Switch
                                             android:id="@+id/switch9"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -495,7 +496,7 @@
                                         <Switch
                                             android:id="@+id/switch10"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -516,7 +517,7 @@
                                         <Switch
                                             android:id="@+id/switch11"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -537,7 +538,7 @@
                                         <Switch
                                             android:id="@+id/switch12"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -558,7 +559,7 @@
                                         <Switch
                                             android:id="@+id/switch13"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -579,7 +580,7 @@
                                         <Switch
                                             android:id="@+id/switch14"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -600,7 +601,7 @@
                                         <Switch
                                             android:id="@+id/switch15"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -621,7 +622,7 @@
                                         <Switch
                                             android:id="@+id/switch16"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -642,7 +643,7 @@
                                         <Switch
                                             android:id="@+id/switch17"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -663,7 +664,7 @@
                                         <Switch
                                             android:id="@+id/switch18"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -684,7 +685,7 @@
                                         <Switch
                                             android:id="@+id/switch19"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -705,7 +706,7 @@
                                         <Switch
                                             android:id="@+id/switch20"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -726,7 +727,7 @@
                                         <Switch
                                             android:id="@+id/switch21"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -747,7 +748,7 @@
                                         <Switch
                                             android:id="@+id/switch22"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -768,7 +769,7 @@
                                         <Switch
                                             android:id="@+id/switch23"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -789,7 +790,7 @@
                                         <Switch
                                             android:id="@+id/switch24"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -810,7 +811,7 @@
                                         <Switch
                                             android:id="@+id/switch25"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -831,7 +832,7 @@
                                         <Switch
                                             android:id="@+id/switch26"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -852,7 +853,7 @@
                                         <Switch
                                             android:id="@+id/switch27"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -873,7 +874,7 @@
                                         <Switch
                                             android:id="@+id/switch28"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -894,7 +895,7 @@
                                         <Switch
                                             android:id="@+id/switch29"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -915,7 +916,7 @@
                                         <Switch
                                             android:id="@+id/switch30"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -936,7 +937,7 @@
                                         <Switch
                                             android:id="@+id/switch31"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -957,7 +958,7 @@
                                         <Switch
                                             android:id="@+id/switch32"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -978,7 +979,7 @@
                                         <Switch
                                             android:id="@+id/switch33"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -999,7 +1000,7 @@
                                         <Switch
                                             android:id="@+id/switch34"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1020,7 +1021,7 @@
                                         <Switch
                                             android:id="@+id/switch35"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1041,7 +1042,7 @@
                                         <Switch
                                             android:id="@+id/switch36"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1062,7 +1063,7 @@
                                         <Switch
                                             android:id="@+id/switch37"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1083,7 +1084,7 @@
                                         <Switch
                                             android:id="@+id/switch38"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1104,7 +1105,7 @@
                                         <Switch
                                             android:id="@+id/switch39"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1125,7 +1126,7 @@
                                         <Switch
                                             android:id="@+id/switch40"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1146,7 +1147,7 @@
                                         <Switch
                                             android:id="@+id/switch41"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1167,7 +1168,7 @@
                                         <Switch
                                             android:id="@+id/switch42"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1188,7 +1189,7 @@
                                         <Switch
                                             android:id="@+id/switch43"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1209,7 +1210,7 @@
                                         <Switch
                                             android:id="@+id/switch44"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1230,7 +1231,7 @@
                                         <Switch
                                             android:id="@+id/switch45"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1251,7 +1252,7 @@
                                         <Switch
                                             android:id="@+id/switch46"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
@@ -1272,7 +1273,7 @@
                                         <Switch
                                             android:id="@+id/switch47"
                                             android:layout_width="match_parent"
-                                            android:layout_height="match_parent" />
+                                            android:layout_height="wrap_content" />
 
                                     </TableRow>
 
