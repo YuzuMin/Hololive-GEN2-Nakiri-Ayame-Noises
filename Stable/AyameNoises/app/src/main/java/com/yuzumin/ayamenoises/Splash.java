@@ -12,6 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
 public class Splash extends AppCompatActivity {
+
     boolean isLaunched;
     ConstraintLayout Layout;
     VideoView Splash;
@@ -25,6 +26,7 @@ public class Splash extends AppCompatActivity {
         Splash=findViewById(R.id.SplashVideo);
         isLaunched=false;
 
+
         Uri video= Uri.parse("android.resource://"+getPackageName()+"/"+R.raw.splashscreen);
         Splash.setVideoURI(video);
 
@@ -34,7 +36,7 @@ public class Splash extends AppCompatActivity {
                 if(!isLaunched){
                     isLaunched=true;
                     finish();
-                    startActivity(new Intent(Splash.this,MainActivity.class));
+                    startActivity(new Intent(Splash.this, MainActivity.class));
                 }
             }
         });
@@ -45,7 +47,7 @@ public class Splash extends AppCompatActivity {
                 if(!isLaunched){
                     isLaunched=true;
                     finish();
-                    startActivity(new Intent(Splash.this,MainActivity.class));
+                    startActivity(new Intent(Splash.this, MainActivity.class));
                 }
                 return false;
             }

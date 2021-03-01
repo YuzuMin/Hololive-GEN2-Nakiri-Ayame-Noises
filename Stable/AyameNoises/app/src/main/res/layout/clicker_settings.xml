@@ -118,7 +118,7 @@
                                             android:layout_weight="1"
                                             android:layout_width="wrap_content"
                                             android:layout_height="wrap_content"
-                                            android:text="Activate Popup Text"
+                                            android:text="Show Popup Text"
                                             android:textColor="@color/porcelain"
                                             android:textSize="17sp" />
 
@@ -129,6 +129,26 @@
 
                                     </TableRow>
 
+                                    <TableRow
+                                        android:layout_marginTop="5dp"
+                                        android:paddingHorizontal="10dp"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent">
+
+                                        <TextView
+                                            android:layout_weight="1"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text="Show Button Bar"
+                                            android:textColor="@color/porcelain"
+                                            android:textSize="17sp" />
+
+                                        <Switch
+                                            android:id="@+id/switch0"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent" />
+
+                                    </TableRow>
                                 </TableLayout>
 
                             </androidx.cardview.widget.CardView>
