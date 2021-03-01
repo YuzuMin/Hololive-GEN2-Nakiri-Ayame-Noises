@@ -684,7 +684,7 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
                     if (switch1) {
                         Toast.makeText(this, getString(R.string.noise2_text), Toast.LENGTH_SHORT).show();
                     }
-                    set2.start();
+                    anim1.start();
                     break;
                 case 5:
                     noise = MediaPlayer.create(this, R.raw.ayamenoise3);
