@@ -155,7 +155,7 @@ public class AppMenu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(android.content.Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://drive.google.com/drive/folders/1wwtljSHXNb-FBqnVuh6IHRCpuv73hhY3?usp=sharing"));
+                i.setData(Uri.parse("https://drive.google.com/drive/folders/1IwsOiGYdRX_IGkML0ofEhPYMZ3nEEjtf?usp=sharing"));
                 startActivity(i);
             }
         });
