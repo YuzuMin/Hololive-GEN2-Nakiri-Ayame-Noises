@@ -1,4 +1,4 @@
-# Hololive GEN2 Nakiri Ayame
+# Hololive GEN2 Nakiri Ayame Noises
  GitHub repository for Uto Noises Android App
 
 # Nakiri Ayame Noises
