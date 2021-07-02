@@ -64,8 +64,8 @@ GNU General Public License V3
 * ayamenoise43 *Oni Giggles*
 * ayamenoise44 早く起きる 
 * ayamenoise45 困っちゃうよね
-* ayamenoise46
-* ayamenoise47
+* ayamenoise46 Yo Dazo
+* ayamenoise47 しゃけ！
 * ayamenoise48
 * ayamenoise49
 * ayamenoise50
