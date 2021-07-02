@@ -1,5 +1,5 @@
 # Hololive GEN2 Nakiri Ayame Noises
- GitHub repository for Uto Noises Android App
+ GitHub repository for Ayame Noises Android App
 
 # Nakiri Ayame Noises
 Ayame Noises is a clicker app for Android smartphones and tablets that brings Nakirium to you by playing noises made by Ayame.
@@ -64,3 +64,8 @@ GNU General Public License V3
 * ayamenoise43 *Oni Giggles*
 * ayamenoise44 早く起きる 
 * ayamenoise45 困っちゃうよね
+* ayamenoise46
+* ayamenoise47
+* ayamenoise48
+* ayamenoise49
+* ayamenoise50
